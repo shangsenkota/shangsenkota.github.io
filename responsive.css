@@ -1,0 +1,16 @@
+@media all and (max-width:1000px){
+  .game{
+    width:50%;
+  }
+
+  .container{
+    width:100%;
+  }
+}
+
+@media all and (max-width:670px){
+  .game{
+    width:100%;
+    float:none;
+  }
+}
