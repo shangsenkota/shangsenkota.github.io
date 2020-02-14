@@ -13,4 +13,8 @@
     width:100%;
     float:none;
   }
+  
+  .top-title h1{
+    font-size:1em;
+  }
 }
